@@ -1,5 +1,5 @@
 # 💫 About Me:
-:computer: I am currently working :<br>- At Appiatech on C# and angular aviation project owned by Boeing :airplane:<br><br>:mechanical_arm: I have experience in:<br>- React<br>- Laravel<br>- C# .net <br><br>:brain: I am learning:<br>- Microservices<br>- Devops<br><br>:books: I Know<br>- React<br>- angular<br>- C# .net<br>- php - laravel<br>- docker<br>- nodeJs<br>
+:computer: I am currently working :<br>- At Appiatech on C# and angular aviation project owned by Boeing :airplane:<br><br>:mechanical_arm: I have experience in:<br>- React<br>- Laravel<br>- C# .net <br><br>:brain: I am learning:<br>- Microservices<br>- software architecture<br><br>:books: I Know<br>- React<br>- angular<br>- C# .net<br>- php - laravel<br>- docker<br>- nodeJs<br>
 
 
 # 📊 GitHub Stats:
